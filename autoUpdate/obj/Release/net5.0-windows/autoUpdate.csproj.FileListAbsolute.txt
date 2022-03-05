@@ -20,3 +20,7 @@ C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\obj\Release\net5.0-windows\autoUpdat
 C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\obj\Release\net5.0-windows\ref\autoUpdate.dll
 C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\obj\Release\net5.0-windows\autoUpdate.pdb
 C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\obj\Release\net5.0-windows\autoUpdate.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Release\net5.0-windows\autoUpdate.dll.manifest
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Release\net5.0-windows\autoUpdate.application
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\obj\Release\net5.0-windows\autoUpdate.dll.manifest
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\obj\Release\net5.0-windows\autoUpdate.application
