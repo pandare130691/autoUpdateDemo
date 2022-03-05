@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\publish\autoUpdate.exe
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\publish\autoUpdate.dll
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\publish\autoUpdate.deps.json
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\publish\autoUpdate.runtimeconfig.json
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\publish\autoUpdate.pdb

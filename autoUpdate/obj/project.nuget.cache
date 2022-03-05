@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ePmPHN5YhWvbPdD4/1ITaQUK5VawjHGqgtftIt3bcZ7gYR5QgyH2MEH8/nga+awL1IRK3HullT5dpl1tqU5EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\autoUpdate\\autoUpdate\\autoUpdate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
