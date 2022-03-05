@@ -10,6 +10,6 @@
     Height="450"
     mc:Ignorable="d">
     <Grid>
-        <TextBlock Text="0.0.2" />
+        <TextBlock Text="0.0.1" />
     </Grid>
 </Window>
