@@ -1,6 +1,7 @@
 ﻿using Squirrel;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -34,5 +35,11 @@ namespace autoUpdate
             }
         }
 
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var currentExecutablePath = Process.GetCurrentProcess().MainModule.FileName;
+            Process.Start(currentExecutablePath);
+            Application.Current.Shutdown();
+        }
     }
 }

@@ -9,7 +9,11 @@
     Width="800"
     Height="450"
     mc:Ignorable="d">
-    <Grid>
-        <TextBlock Text="12s" />
-    </Grid>
+    <StackPanel>
+        <TextBlock Text="14" />
+        <Button
+            Height="50"
+            Click="Button_Click"
+            Content="update" />
+    </StackPanel>
 </Window>
