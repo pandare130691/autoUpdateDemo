@@ -30,9 +30,4 @@ C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Release\net5.0-windows\SharpComp
 C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Release\net5.0-windows\Splat.dll
 C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Release\net5.0-windows\NuGet.Squirrel.dll
 C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Release\net5.0-windows\Squirrel.dll
-C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\obj\Release\net5.0-windows\autoUpdate.csproj.AssemblyReference.cache
 C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\obj\Release\net5.0-windows\autoUpdate.csproj.CopyComplete
-C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Release\net5.0-windows\autoUpdate.dll.manifest
-C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Release\net5.0-windows\autoUpdate.application
-C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\obj\Release\net5.0-windows\autoUpdate.dll.manifest
-C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\obj\Release\net5.0-windows\autoUpdate.application

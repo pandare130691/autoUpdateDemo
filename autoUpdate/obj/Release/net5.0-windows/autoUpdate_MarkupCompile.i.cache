@@ -1,5 +1,5 @@
 ﻿autoUpdate
-1.0.0.0
+1.0.0
 
 winexe
 C#
@@ -16,5 +16,5 @@ C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\App.xaml
 204659403840
 MainWindow.xaml;
 
-False
+True
 

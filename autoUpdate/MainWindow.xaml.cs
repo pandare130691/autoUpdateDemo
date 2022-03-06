@@ -35,11 +35,18 @@ namespace autoUpdate
             }
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        async void Button_Click(object sender, RoutedEventArgs e)
         {
-            var currentExecutablePath = Process.GetCurrentProcess().MainModule.FileName;
-            Process.Start(currentExecutablePath);
-            Application.Current.Shutdown();
+            try
+            {
+                var mgr = await UpdateManager.GitHubUpdateManager("https://github.com/pandare130691/autoUpdateDemo");
+                MessageBox.Show(mgr.CurrentlyInstalledVersion().ToString());
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
+
     }
 }

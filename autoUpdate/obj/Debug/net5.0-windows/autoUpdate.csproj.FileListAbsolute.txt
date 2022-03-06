@@ -20,3 +20,15 @@ C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\obj\Debug\net5.0-windows\autoUpdate.
 C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\obj\Debug\net5.0-windows\ref\autoUpdate.dll
 C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\obj\Debug\net5.0-windows\autoUpdate.pdb
 C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\obj\Debug\net5.0-windows\autoUpdate.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Debug\net5.0-windows\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Debug\net5.0-windows\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Debug\net5.0-windows\DeltaCompressionDotNet.dll
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Debug\net5.0-windows\Mono.Cecil.Mdb.dll
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Debug\net5.0-windows\Mono.Cecil.Pdb.dll
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Debug\net5.0-windows\Mono.Cecil.Rocks.dll
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Debug\net5.0-windows\Mono.Cecil.dll
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Debug\net5.0-windows\SharpCompress.dll
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Debug\net5.0-windows\Splat.dll
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Debug\net5.0-windows\NuGet.Squirrel.dll
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\Debug\net5.0-windows\Squirrel.dll
+C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\obj\Debug\net5.0-windows\autoUpdate.csproj.CopyComplete

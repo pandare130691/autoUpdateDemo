@@ -1,0 +1,7 @@
+﻿step 1: update code and rebuild solution in Release mode
+step 2: open Nuget Package Explorer software and create new package version (if no exist) or config old package version
+step 3: drag all file (except .dgl) in release folder of solution into libs/net4.5
+step 4: Nuget Package Explorer save as to acessable path
+step 5: to your github/ Release/ Darf new Release/ import all files in acessable path => push press
+step 6: open app and waiting in 5s for download new version to local (can check current version and compare)
+step 7: re-open app and enjoy new version
