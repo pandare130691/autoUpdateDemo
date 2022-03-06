@@ -10,7 +10,7 @@
     Height="450"
     mc:Ignorable="d">
     <StackPanel>
-        <TextBlock Text="15" />
+        <TextBlock Text="19" />
         <Button
             Height="50"
             Click="Button_Click"
