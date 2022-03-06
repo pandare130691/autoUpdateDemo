@@ -3,3 +3,14 @@ C:\Users\ASUS\Desktop\autoUpdate\published\autoUpdate.dll
 C:\Users\ASUS\Desktop\autoUpdate\published\autoUpdate.deps.json
 C:\Users\ASUS\Desktop\autoUpdate\published\autoUpdate.runtimeconfig.json
 C:\Users\ASUS\Desktop\autoUpdate\published\autoUpdate.pdb
+C:\Users\ASUS\Desktop\autoUpdate\published\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\ASUS\Desktop\autoUpdate\published\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\ASUS\Desktop\autoUpdate\published\DeltaCompressionDotNet.dll
+C:\Users\ASUS\Desktop\autoUpdate\published\Mono.Cecil.Mdb.dll
+C:\Users\ASUS\Desktop\autoUpdate\published\Mono.Cecil.Pdb.dll
+C:\Users\ASUS\Desktop\autoUpdate\published\Mono.Cecil.Rocks.dll
+C:\Users\ASUS\Desktop\autoUpdate\published\Mono.Cecil.dll
+C:\Users\ASUS\Desktop\autoUpdate\published\SharpCompress.dll
+C:\Users\ASUS\Desktop\autoUpdate\published\Splat.dll
+C:\Users\ASUS\Desktop\autoUpdate\published\NuGet.Squirrel.dll
+C:\Users\ASUS\Desktop\autoUpdate\published\Squirrel.dll

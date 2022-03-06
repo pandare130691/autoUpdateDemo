@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Squirrel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,5 +25,14 @@ namespace autoUpdate
         {
             InitializeComponent();
         }
+
+        async Task update()
+        {
+            using (var mgr = new UpdateManager(@"C:\Users\ASUS\Desktop\autoUpdate\autoUpdate\bin\published"))
+            {
+                await mgr.UpdateApp();
+            }
+        }
+
     }
 }
